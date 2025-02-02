@@ -33,20 +33,7 @@ For Software:
 - html , css , javascript
 - html , css , javascript
   
-  
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
@@ -64,39 +51,19 @@ For Software:
 )
 *shows the registration form*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+
+
+https://github.com/user-attachments/assets/8110e4b2-8947-4001-b48c-af2aeb9b46b2
+
+
+
 
 ## Team Contributions
 - Amina.S: Coding
