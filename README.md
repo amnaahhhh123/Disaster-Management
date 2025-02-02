@@ -99,9 +99,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Amina.S]: [Coding]
+- [Devanandha.R]: [Idea generation]
+- [Aswini.suresh]: [Idea Generation]
 
 ---
 Made with ❤️ at TinkerHub
