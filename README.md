@@ -1,39 +1,39 @@
-# [Disaster Management System] 🎯
+# Disaster Management System 🎯
 
 
 ## Basic Details
-### Team Name: [Technozz]
+### Team Name: Technozz
 
 
 ### Team Members
-- Member 1: [Amina.S] - [UKF College of Engineering]
-- Member 2: [Devanandha.R] - [UKF College of Engineering]
-- Member 3: [Aswini.Suresh] - [UKF College of Engineering]
+- Member 1: Amina.S - UKF College of Engineering
+- Member 2: Devanandha.R - UKF College of Engineering
+- Member 3: Aswini.Suresh - UKF College of Engineering
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[The Disaster Management System is a web-based platform designed to facilitate volunteer registration and provide real-time alert notifications to individuals near disaster-prone areas. It helps in coordinating disaster response efforts by ensuring timely communication, mobilizing volunteers, and providing crucial safety information.]
+The Disaster Management System is a web-based platform designed to facilitate volunteer registration and provide real-time alert notifications to individuals near disaster-prone areas. It helps in coordinating disaster response efforts by ensuring timely communication, mobilizing volunteers, and providing crucial safety information.
 
 ### The Problem statement
-[Disasters, both natural and man-made, often lead to chaos due to the lack of timely communication, uncoordinated volunteer efforts, and inefficient resource mobilization. People in affected areas may not receive real-time alerts, leading to increased casualties and damages. Additionally, there is no centralized system to register and manage volunteers effectively.]
+Disasters, both natural and man-made, often lead to chaos due to the lack of timely communication, uncoordinated volunteer efforts, and inefficient resource mobilization. People in affected areas may not receive real-time alerts, leading to increased casualties and damages. Additionally, there is no centralized system to register and manage volunteers effectively.
 
 ### The Solution
-[The Disaster Management System provides a centralized web platform that enhances disaster preparedness and response through:
+The Disaster Management System provides a centralized web platform that enhances disaster preparedness and response through:
 
 Volunteer Registration: Allows individuals to register, specifying their skills to assist in disaster relief efforts efficiently.
 Real-time Alerts: Uses geolocation services to notify users near disaster-prone areas about potential threats and safety measures.
 Disaster Information Hub: Provides the latest news, safety guidelines, and emergency instructions to help communities stay informed.
-Automated Notifications: Sends location-based alerts to affected individuals, ensuring quick and efficient communication.]
+Automated Notifications: Sends location-based alerts to affected individuals, ensuring quick and efficient communication.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [html , css , javascript]
-- [html , css , javascript]
-- [Libraries used]
-- [Tools used]
+- html , css , javascript
+- html , css , javascript
+  
+  
 
 For Hardware:
 - [List main components]
@@ -99,9 +99,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Amina.S]: [Coding]
-- [Devanandha.R]: [Idea generation]
-- [Aswini.suresh]: [Idea Generation]
+- Amina.S: Coding
+- Devanandha.R: Idea generation
+- Aswini.suresh: Idea Generation
 
 ---
 Made with ❤️ at TinkerHub
