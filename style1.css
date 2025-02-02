@@ -1,0 +1,74 @@
+/* Reset default browser margins and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/001/557/683/original/abstract-overlapping-blue-background-free-vector.jpg');
+    background-color: #f4f7fc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white; /* Set all text color to white */
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Page header */
+h1 {
+    text-align: center;
+    color: white; /* Set header text color to white */
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+/* Styling paragraphs */
+p {
+    color: white; /* Set paragraph text color to white */
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
+
+/* Key objectives list */
+p:nth-of-type(2) {
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin-top: 20px;
+}
+
+p:nth-of-type(3),
+p:nth-of-type(4),
+p:nth-of-type(5),
+p:nth-of-type(6) {
+    margin-left: 20px;
+    list-style-type: disc;
+}
+
+/* Styling the last paragraph */
+p:last-of-type {
+    font-style: italic;
+    font-size: 1rem;
+    color: #ddd; /* Slightly lighter white for last paragraph */
+    margin-top: 20px;
+}
+
+/* Add some spacing between sections */
+section {
+    margin-bottom: 30px;
+}
+
+/* Add some responsiveness for mobile view */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+}
